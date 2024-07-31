@@ -9,7 +9,7 @@ title: Hugo Academic CV Theme
 baseURL: 'https://example.com/'
 
 ############################
-## LANGUAGE
+## LANGUAGEs
 ############################
 
 defaultContentLanguage: en
